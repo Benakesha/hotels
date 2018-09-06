@@ -1,0 +1,2 @@
+# hotels
+Embiot hotel
